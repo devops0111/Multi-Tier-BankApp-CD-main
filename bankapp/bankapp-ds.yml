@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: devopstechno/bankapp:v4
+        image: devopstechno/bankapp:20
         ports:
         - containerPort: 8080
         env:
